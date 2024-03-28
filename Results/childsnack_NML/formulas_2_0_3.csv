@@ -1,0 +1,2 @@
+time_encoding,nb_runs,expected_formulas,nb_solve,nb_success,time_search,total_score,time_total
+183.13466491399595,5,50,50,50,1165.2966994189992,13700,1348.794233890003

@@ -1,0 +1,5 @@
+;TLL Score: -100
+(walk shed location1 bob)
+(walk location1 location2 bob)
+(walk location2 gate bob)
+; Outcome: PlanEndType.DEADEND

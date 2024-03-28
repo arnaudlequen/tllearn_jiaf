@@ -1,0 +1,6 @@
+domain:
+  ignore_types:
+  - locatable
+  - object
+language:
+  omit_modalities: []

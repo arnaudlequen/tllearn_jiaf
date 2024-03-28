@@ -1,0 +1,6 @@
+domain:
+  whitelist_types:
+  - kitchen
+  - tray
+language:
+  omit_modalities: []

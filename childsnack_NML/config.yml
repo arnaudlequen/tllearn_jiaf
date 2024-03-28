@@ -1,0 +1,7 @@
+domain:
+  whitelist_types:
+  - kitchen
+  - tray
+  - sandwich
+language:
+  omit_modalities: []
